@@ -369,10 +369,11 @@ nav a:hover {
         border-radius: 15px;
         min-width: 600px;
         height: 900px;
+        border: 2px solid #2c2742;
     }
     footer {
         padding: 50px 80px 80px 50px;
-        border-top: 1px solid #CDCDCD;
+        border-top: 1px solid #2c2742;
         display: flex;
         justify-content: space-between;
     }
@@ -632,6 +633,7 @@ nav a:hover {
         margin-right: auto;
         min-width: 100%;
         height: 900px;
+        border: 2px sold #2c2742;
     }
     .about-flex,
     .heading-dark,
@@ -639,7 +641,7 @@ nav a:hover {
     footer {
         padding-left: 1em;
         padding-right: 1em;
-        border-top: 1px solid #CDCDCD;
+        border-top: 1px solid #2c2742;
     }
     .heading-light h2,
     .heading-dark h2 {
