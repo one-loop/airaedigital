@@ -61,6 +61,10 @@ a:hover {
     outline: 0
 }
 
+.brand.w-nav-brand img {
+     margin-left: 20px;
+}
+
 abbr[title] {
     border-bottom: 1px dotted
 }
